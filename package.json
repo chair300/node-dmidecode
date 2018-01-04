@@ -4,8 +4,8 @@
   "description": "simple node library for dmidecode",
   "license": "MIT",
   "author": "Christopher Harrison <harrison@glsan.com> (https://glsan.com)",
-  "homepage": "https://github.com/chair300/dmidecode",
-  "main": "./lib/index.js",
+  "homepage": "https://github.com/chair300/node-dmidecode",
+  "main": "./lib/dmidecode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,11 +17,10 @@
     "osx",
     "windows",
     "cpu",
+    "cache",
     "freebsd",
-    "cpuload",
     "memory",
     "block devices",
-    "netstats",
     "network",
     "graphics",
     "graphic card",
@@ -30,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sebhildebrandt/systeminformation.git"
+    "url": "https://github.com/chair300/node-dmidecode.git"
   },
   "os": [
     "darwin",
     "linux",
-    "win32"
+    "freebsd"
   ],
   "engines": {
     "node": ">=4.0.0"
