@@ -10,7 +10,7 @@ Lightweight node library for dmidecode to access all system information via the 
 ### Installation
 
 ```bash
-$ npm install node-dmidecode --save
+$ npm install dmidecode --save
 ```
 
 ### Usage
