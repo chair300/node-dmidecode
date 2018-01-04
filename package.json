@@ -1,5 +1,5 @@
 {
-  "name": "dmidecode",
+  "name": "node-dmidecode",
   "version": "1.0.2",
   "description": "simple node library for dmidecode",
   "license": "MIT",
