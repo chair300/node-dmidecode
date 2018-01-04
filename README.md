@@ -2,12 +2,12 @@
 
 Simple system and OS information library for [node.js][nodejs-url]
 
-  [![NPM Version][npm-image]][npm-url]
-  [![NPM Downloads][downloads-image]][downloads-url]
-  [![Git Issues][issues-img]][issues-url]
-  [![deps status][daviddm-img]][daviddm-url]
-  [![Caretaker][caretaker-image]][caretaker-url]
-  [![MIT license][license-img]][license-url]
+#  [![NPM Version][npm-image]][npm-url]
+#  [![NPM Downloads][downloads-image]][downloads-url]
+#  [![Git Issues][issues-img]][issues-url]
+#  [![deps status][daviddm-img]][daviddm-url]
+#  [![Caretaker][caretaker-image]][caretaker-url]
+#  [![MIT license][license-img]][license-url]
 
 ## Quick Start
 
