@@ -1,5 +1,5 @@
 {
-  "name": "node-dmidecode",
+  "name": "dmidecode",
   "version": "1.0.2",
   "description": "simple node library for dmidecode",
   "license": "MIT",
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chair300/node-dmidecode.git"
+    "url": "https://github.com/chair300/dmidecode.git"
   },
   "os": [
     "darwin",
