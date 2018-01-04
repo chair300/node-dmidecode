@@ -1,0 +1,43 @@
+{
+  "name": "dmidecode",
+  "version": "1.0.1",
+  "description": "simple node library for dmidecode",
+  "license": "MIT",
+  "author": "Christopher Harrison <harrison@glsan.com> (https://glsan.com)",
+  "homepage": "https://github.com/chair300/dmidecode",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "system information",
+    "sysinfo",
+    "os",
+    "linux",
+    "osx",
+    "windows",
+    "cpu",
+    "freebsd",
+    "cpuload",
+    "memory",
+    "block devices",
+    "netstats",
+    "network",
+    "graphics",
+    "graphic card",
+    "graphic controller",
+    "display"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebhildebrandt/systeminformation.git"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
