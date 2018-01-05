@@ -66,7 +66,7 @@ If you have comments, suggestions & reports, please feel free to contact me!
 
 
 ```js
-const dmi = require('node-dmidecode');
+const dmi = require('dmidecode');
 
 dmi.item('processor-manufacturer', function(data) {
 	console.log('Processor manufacturer :'+data);
@@ -149,9 +149,9 @@ All other trademarks are the property of their respective owners.
 
 
 [npm-image]: https://img.shields.io/npm/v/systeminformation.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/node-dmidecode
+[npm-url]: https://npmjs.org/package/dmidecode
 [downloads-image]: https://img.shields.io/npm/dm/systeminformation.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/node-dmidecode
+[downloads-url]: https://npmjs.org/package/dmidecode
 
 [license-url]: https://github.com/chair300/node-dmidecode/blob/master/LICENSE
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
@@ -161,4 +161,4 @@ All other trademarks are the property of their respective owners.
 
 [nodejs-url]: https://nodejs.org/en/
 
-[issues-url]: https://github.com/chair300/node-dmidecode/issues
+[issues-url]: https://github.com/chair300/dmidecode/issues

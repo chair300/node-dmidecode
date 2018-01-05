@@ -1,6 +1,6 @@
 {
   "name": "dmidecode",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "simple node library for dmidecode",
   "license": "MIT",
   "author": "Christopher Harrison <harrison@glsan.com> (https://glsan.com)",
