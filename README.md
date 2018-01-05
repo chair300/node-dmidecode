@@ -17,7 +17,7 @@ $ npm install dmidecode --save
 
 
 ```js
-const dmi = require('node-dmidecode');
+const dmi = require('dmidecode');
 
 // callback style
 dmi.cpu(function(data) {
